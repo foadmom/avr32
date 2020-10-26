@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.views.problem">
+	</section>
+	<section name="org.eclipse.ui.views.task">
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="647" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_NOW"/>
+		<item value="308" key="DIALOG_Y_ORIGIN"/>
+		<item value="533" key="DIALOG_X_ORIGIN"/>
+		<item value="536" key="DIALOG_HEIGHT"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+	</section>
+</section>

@@ -1,0 +1,10 @@
+
+Aug 02, 2011 17:35:17.60 NEW SESSION
+Aug 02, 2011 17:35:17.60 which: no mozilla in (/opt/javax32/v6/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/X11R6/bin:/sbin::/home/foadm/bin)
+Aug 02, 2011 17:35:17.61 which: no netscape in (/opt/javax32/v6/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/X11R6/bin:/sbin::/home/foadm/bin)
+Aug 02, 2011 17:35:17.62 /usr/bin/firefox
+
+Aug 07, 2011 13:17:06.85 NEW SESSION
+Aug 07, 2011 13:17:06.85 which: no mozilla in (/opt/javax32/v6/bin:/opt/javax32/v6/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/X11R6/bin:/sbin::/home/foadm/bin:/sbin:)
+Aug 07, 2011 13:17:06.87 /usr/bin/firefox
+Aug 07, 2011 13:17:06.87 which: no netscape in (/opt/javax32/v6/bin:/opt/javax32/v6/bin:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/X11R6/bin:/sbin::/home/foadm/bin:/sbin:)

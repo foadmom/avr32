@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.atmel.avr32.tool.avr32program.ReadDialogComposite.1">
+		<item value="/home/foadm/temp/mem.dump" key="filepath"/>
+		<item value="200" key="length"/>
+		<item value="0" key="format"/>
+		<item value="0x80002450" key="offset"/>
+	</section>
+	<section name="com.atmel.avr32.tool.avr32program.EraseDialogComposite.1">
+	</section>
+	<section name="SelectedDevices">
+		<list key="LastUsed">
+			<item value="UC3B0256"/>
+		</list>
+	</section>
+	<section name="com.atmel.avr32.tool.avr32program.ProgramDialogComposite.1">
+		<item value="/home/foadm/data/workspaces/avr32/saveTheWorld/saveTheWorld__/Debug/saveTheWorld.elf" key="filepath"/>
+		<item value="false" key="unlock"/>
+		<item value="true" key="erase"/>
+		<item value="false" key="start"/>
+		<item value="true" key="verify"/>
+		<item value="" key="length"/>
+		<item value="true" key="fullLength"/>
+		<item value="true" key="reset"/>
+		<item value="0" key="format"/>
+		<item value="0x0" key="offset"/>
+	</section>
+	<section name="com.atmel.avr32.tool.avr32program.VerifyDialogComposite.1">
+		<item value="/home/foadm/data/workspaces/avr32/saveTheWorld/saveTheWorld__/Debug/saveTheWorld.elf" key="filepath"/>
+		<item value="" key="length"/>
+		<item value="true" key="fullLength"/>
+		<item value="0" key="format"/>
+		<item value="0x0" key="offset"/>
+	</section>
+</section>

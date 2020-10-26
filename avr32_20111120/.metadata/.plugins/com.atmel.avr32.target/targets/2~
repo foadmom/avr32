@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<target clocksource="0" binary="" binary-date="-1" cpu="UC3B0256" comport="" daisybitsafter="0" daisyenabled="false" adapter="JTAGICE mkII" board="EVK1101" daisydevsbefore="0" daisydevsafter="0" id="2" default="true" connection-type="usb" name="evk1101" daisybitsbefore="0" serial="00B000003873">
+	<description></description>
+</target>

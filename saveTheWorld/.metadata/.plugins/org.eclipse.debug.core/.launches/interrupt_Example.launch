@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.atmel.avr32.launch.AVR32Application">
+<stringAttribute key="AVR32_ATTR_BUFFER_ACTION" value="DISABLE_TRACE"/>
+<stringAttribute key="AVR32_ATTR_BUFFER_SIZE" value="32"/>
+<booleanAttribute key="AVR32_ATTR_BUFFER_SPECIFIED" value="true"/>
+<stringAttribute key="AVR32_ATTR_BUFFER_START" value="0x0"/>
+<stringAttribute key="AVR32_ATTR_DEBUGGER_BUFFER_SIZE" value="128kB"/>
+<stringAttribute key="AVR32_ATTR_DEBUG_INTERFACE" value="AVR32 Program/GDB-Proxy"/>
+<booleanAttribute key="AVR32_ATTR_DETECT_BUFFER" value="false"/>
+<booleanAttribute key="AVR32_ATTR_DISABLE_DBG" value="false"/>
+<booleanAttribute key="AVR32_ATTR_ENABLE_NTAP" value="false"/>
+<booleanAttribute key="AVR32_ATTR_ENABLE_TRACE" value="false"/>
+<stringAttribute key="AVR32_ATTR_ERASEMETHOD" value="ERASE_SECTORS"/>
+<stringAttribute key="AVR32_ATTR_EXEPATH" value="/home/foadm/data/workspaces/avr32/saveTheWorld/interrupt_Example/Debug/_template.elf"/>
+<booleanAttribute key="AVR32_ATTR_FILE_RESET" value="true"/>
+<booleanAttribute key="AVR32_ATTR_FILE_RUN" value="true"/>
+<booleanAttribute key="AVR32_ATTR_FILE_VERIFY" value="false"/>
+<booleanAttribute key="AVR32_ATTR_FLASHVAULT" value="false"/>
+<stringAttribute key="AVR32_ATTR_GDBPROXY" value="avr32gdbproxy"/>
+<stringAttribute key="AVR32_ATTR_GDB_TRACE_PORT" value="4712"/>
+<stringAttribute key="AVR32_ATTR_OFFSET" value="0x80000000"/>
+<booleanAttribute key="AVR32_ATTR_OWNERSHIP_TRACE" value="false"/>
+<stringAttribute key="AVR32_ATTR_POST_FUSES" value=""/>
+<stringAttribute key="AVR32_ATTR_PRE_FUSES" value=""/>
+<stringAttribute key="AVR32_ATTR_RANGE1_ACCESS" value="RW"/>
+<stringAttribute key="AVR32_ATTR_RANGE1_LB" value="0x0"/>
+<stringAttribute key="AVR32_ATTR_RANGE1_UB" value="0x0"/>
+<stringAttribute key="AVR32_ATTR_RANGE2_ACCESS" value="RW"/>
+<stringAttribute key="AVR32_ATTR_RANGE2_LB" value="0x0"/>
+<stringAttribute key="AVR32_ATTR_RANGE2_UB" value="0x0"/>
+<booleanAttribute key="AVR32_ATTR_RESETVECTOR" value="true"/>
+<stringAttribute key="AVR32_ATTR_RUN_INTERFACE" value="AVR32 Program/GDB-Proxy"/>
+<booleanAttribute key="AVR32_ATTR_START_PROXY" value="true"/>
+<intAttribute key="AVR32_ATTR_STK_ID" value="1"/>
+<booleanAttribute key="AVR32_ATTR_SUPPRESS_PROGRAMMING" value="false"/>
+<booleanAttribute key="AVR32_ATTR_VERBOSE" value="false"/>
+<intAttribute key="AVR32_AUX_PORT_CONFIGURATION" value="0"/>
+<booleanAttribute key="AVR32_AUX_PORT_OVERRIDE" value="false"/>
+<stringAttribute key="AVR32_TRACE_METHOD" value="NANO_TRACE"/>
+<stringAttribute key="org.eclipse.cdt.debug.mi.core.DEBUG_NAME" value="avr32-gdb"/>
+<stringAttribute key="org.eclipse.cdt.debug.mi.core.HOST" value="localhost"/>
+<stringAttribute key="org.eclipse.cdt.debug.mi.core.PORT" value="4711"/>
+<booleanAttribute key="org.eclipse.cdt.debug.mi.core.REMOTE_TCP" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.debug.mi.core.verboseMode" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="org.eclipse.cdt.debug.mi.core.GDBServerCDebugger"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_REGISTER_GROUPS" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="main"/>
+<stringAttribute key="org.eclipse.cdt.launch.FORMAT" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;contentList/&gt;"/>
+<stringAttribute key="org.eclipse.cdt.launch.GLOBAL_VARIABLES" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;globalVariableList/&gt;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.MEMORY_BLOCKS" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;memoryBlockExpressionList/&gt;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/_template.elf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="interrupt_Example"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/interrupt_Example"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="process_factory_id" value="com.atmel.avr32.debug.ProcessFactory"/>
+</launchConfiguration>

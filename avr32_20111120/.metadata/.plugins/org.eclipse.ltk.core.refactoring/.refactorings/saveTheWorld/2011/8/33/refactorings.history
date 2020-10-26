@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;saveTheWorld/src/common/src/exception.s&apos; to &apos;exception.S&apos;" description="Rename resource &apos;exception.s&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/common/src/exception.s" name="exception.S" stamp="1312963363180" updateReferences="true"/>
+</session>
