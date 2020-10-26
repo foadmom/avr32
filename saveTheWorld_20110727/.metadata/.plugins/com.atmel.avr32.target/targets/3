@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<target clocksource="0" os="" binary="" binary-date="0" cpu="" comport="" daisybitsafter="0" daisyenabled="false" adapter="AVR32 Simulator" board="" daisydevsbefore="0" daisydevsafter="0" id="3" default="false" address="" connection-type="usb" name="AVR32 Simulator" daisybitsbefore="0" serial="0" user="avr32">
-	<description></description>
-</target>

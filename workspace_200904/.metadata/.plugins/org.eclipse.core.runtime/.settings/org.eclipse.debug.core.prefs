@@ -1,3 +1,0 @@
-#Sat Jan 03 22:39:26 EST 2009
-prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="usart1Stats"/>\n<expression enabled\="true" text\="usart1_txBuffer"/>\n<expression enabled\="true" text\="S_TC_usecTimer"/>\n</watchExpressions>\n
-eclipse.preferences.version=1

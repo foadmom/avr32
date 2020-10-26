@@ -1,2 +1,0 @@
-target extended-remote :4711
-sym uc3b0256-tc_example1.elf
